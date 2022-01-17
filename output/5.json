@@ -1,1 +1,38 @@
-{"dna":"0212220","name":"#5","description":"This is an NFT made by the coolest generative code really. It is a Clumsy Snail limited series to try all the tech","image":"https://clumsysnails.online/metadata/5.png","edition":5,"date":1642429073959,"attributes":[{"trait_type":"Background","value":"Pink gradient"},{"trait_type":"Body","value":"Yellowish"},{"trait_type":"Shell","value":"Green"},{"trait_type":"Mouth","value":"Focused"},{"trait_type":"Eyes","value":"Stunned"},{"trait_type":"Hair","value":"Type 3"},{"trait_type":"Headset","value":"Headphones pink"}]}
+{
+    "dna": "1112212",
+    "name": "#5",
+    "description": "This is an NFT made by the coolest generative code really. It is a Clumsy Snail limited series to try all the tech",
+    "image": "http://clumsysnails.online/metadata/5.png",
+    "edition": 5,
+    "date": 1642443531004,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow desert"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Shell",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Type 2"
+        },
+        {
+            "trait_type": "Headset",
+            "value": "Headphones red"
+        }
+    ]
+}
